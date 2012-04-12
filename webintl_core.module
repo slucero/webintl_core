@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the WebIntl Core feature.
+ */
+
+include_once 'webintl_core.features.inc';
